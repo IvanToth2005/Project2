@@ -1,0 +1,12 @@
+BOSSraktár;Hős utca 21;lakás;berendezések;szőnyegek;sárga szőnyeg;3;36;389
+BOSSraktár;Hős utca 21;lakás;berendezések;szőnyegek;piros szőnyeg;1;25;250
+BOSSraktár;Hős utca 21;lakás;berendezések;szőnyegek;zöld szőnyeg;2;30;300
+BOSSraktár;Hős utca 21;lakás;berendezések;szőnyegek;íróasztal;3;28;280
+BOSSraktár;Hős utca 21;közlekedés;gépjárművek;autó;Wartburg;4;40;200
+BOSSraktár;Hős utca 21;közlekedés;gépjárművek;motor;Simpson;5;45;180
+BOSSraktár;Hős utca 21;közlekedés;sport;kerekes jármű;versenykerékpár;6;38;220
+BOSSraktár;Hős utca 21;közlekedés;sport;kerekes jármű;roller;7;42;120
+BOSSraktár;Hős utca 21;italok;üdítők;üdítő;Powerade;8;48;150
+BOSSraktár;Hős utca 21;italok;üdítők;üdítő;Gatorade;9;50;100
+BOSSraktár;Hős utca 21;élelmiszer;sport;étrendkiegészítő;carbbar;10;20;400
+BOSSraktár;Hős utca 21;élelmiszer;sport;étrendkiegészítő;protein bar;11;18;350
